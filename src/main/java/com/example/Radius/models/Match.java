@@ -10,4 +10,5 @@ public class Match {
     private double bedRoomsMatchPercent;
     private double bathRoomsMatchPercent;
     boolean isMatchPossible;
+    String propertyId;
 }
