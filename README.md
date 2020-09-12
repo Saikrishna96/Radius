@@ -8,7 +8,7 @@ Assumptions made while building this project:
   3. BedRooms : 20%
   4. BathRooms : 20%
   
-  
+ ------------------------------------------------------------------------------------------------------------------------------------
   
  Any Requirement Match is considered as useful only if total match percent is greater than 40%
  
@@ -55,7 +55,7 @@ Assumptions made while building this project:
   
   ------------------------------------------------------------------------------------------------------------------------------------
     
- Assumptions for BedRooms match calculation: (considering same for BedRooms as well)   
+ Assumptions for BedRooms match calculation: (considering same for BathRooms as well)   
  
   if both Min and Max BedRooms are provided then:
   
@@ -79,5 +79,7 @@ Assumptions made while building this project:
        if BedRooms lies in Min BedRooms - 2 then 15% contribution
        else 0% contribution (Not a match)     
        
+  ------------------------------------------------------------------------------------------------------------------------------------
   
+  Assumptions for BathRooms match calculation: Same as above 
    
