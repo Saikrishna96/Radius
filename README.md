@@ -1,5 +1,5 @@
 # Radius Project
-Fully functional Microservice built in Java and SpringBoot(with Rest API controller and services)
+Fully functional Microservice built in Java, Maven and SpringBoot(with Rest API controller and services)
 
 How to run this project :
       $ mvn spring-boot:run
