@@ -8,8 +8,7 @@ import org.springframework.context.annotation.ComponentScan;
 @ComponentScan({"com.example.Radius"})
 public class RadiusApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(RadiusApplication.class, args);
-	}
-
+  public static void main(String[] args) {
+    SpringApplication.run(RadiusApplication.class, args);
+  }
 }
