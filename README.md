@@ -1,4 +1,5 @@
 # Radius Project
+Fully functional Microservice built in Java and SpringBoot(Rest API controller and services)
 
 Assumptions made while building this project:
 
