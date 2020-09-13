@@ -1,5 +1,15 @@
 # Radius Project
-Fully functional Microservice built in Java and SpringBoot(Rest API controller and services)
+Fully functional Microservice built in Java and SpringBoot(with Rest API controller and services)
+
+How to run this project :
+      $ mvn spring-boot:run
+
+How to test this project :
+      After running the project using above command, just run the below curl request and match details will be printed in the terminal.
+      
+      curl "http://localhost:8080/search-controller/search?lat=18.1224&lon=79.1102&minBudget=10000&maxBudget=20000&minBeds=2&maxBeds=4&minBaths=2&maxBaths=3"
+  
+  
 
 Assumptions made while building this project:
 
