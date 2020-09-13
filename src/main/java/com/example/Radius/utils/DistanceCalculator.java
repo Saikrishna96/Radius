@@ -32,11 +32,12 @@ public class DistanceCalculator {
     return (rad * 180.0 / Math.PI);
   }
 
-  public static void main(String[] args) {
-    System.out.println(distance(18.1124, 79.1192, 18.1224, 79.1102, 'M') + " Miles\n");
-    System.out.println(
-        distance(18.2124, 78.01929969999999, 18.1224372, 79.01929969999999, 'K') + " Kilometers\n");
-    System.out.println(
-        distance(32.9697, -96.80322, 29.46786, -98.53506, 'N') + " Nautical Miles\n");
-  }
+  //  public static void main(String[] args) {
+  //    System.out.println(distance(18.1124, 79.1192, 18.1224, 79.1102, 'M') + " Miles\n");
+  //    System.out.println(
+  //        distance(18.2124, 78.01929969999999, 18.1224372, 79.01929969999999, 'K') + "
+  // Kilometers\n");
+  //    System.out.println(
+  //        distance(32.9697, -96.80322, 29.46786, -98.53506, 'N') + " Nautical Miles\n");
+  //  }
 }
